@@ -1,2 +1,2 @@
 # minipro
-this is my first pro
+This is my first proJECT. 
